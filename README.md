@@ -6,5 +6,4 @@ METHODOLOGY
 The file was first exported from WhatsApp on the phone. Click on the three dots on the right-hand side>more>export.  The file was saved as text and transferred to a laptop through Bluetooth. 
 Using Jupyter notebook (.pynb), all necessary libraries like Regex(regular expression for identifying pattern and extraction), NumPy (for numbers), pandas( for structuring the data better for analysis), DateTime (for changing the date into date_time) and openpyxl (excel converter)  were imported.
 The data was processed with these libraries and structured.
-The excel file obtained was imported into Power BI for dashboard visualization to obtain good insight. 
-Link to the Power BI dashboard is: https://app.powerbi.com/links/TGOvsBqxQv?ctid=6e9fed74-925a-4e82-9c35-e5dc3d96239e&pbi_source=linkShare
+The excel file obtained was imported into Power BI for dashboard visualization to obtain good insight.
